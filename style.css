@@ -79,17 +79,6 @@ h1 {
     scroll-margin-top: 100px; /* atau sesuai tinggi header kamu */
   }
 
-  /* tombol di beli sekarang */
-  button {
-    margin-top: 30px;
-    padding: 9px;
-    background-color: #fe0000;
-    color: rgb(255, 255, 255);
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-
 .btn {
   margin-top: 10px;
   background-color: #ff1e16;
